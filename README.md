@@ -1,5 +1,5 @@
 ```
-# ChoocsValAgentSel
+# ChocosValAgentSel
 Coded in AHK
 
  ██████ ██   ██  ██████   ██████  ██████  ███████      █████  ██  ██████  
@@ -53,7 +53,7 @@ Misc:
 - You can use your own agent portraits by overwriting the images. Be sure to use 150*200px images or at least 3:4 vertical ratio. Currently only accepts image file formats. DO NOT CHANGE THE FILE NAMES OR ELSE IT WILL NOT LOAD
 
 Legal:
-This program is made under the Riot Legal Jibber Jabber. 
+Choco's AIO Valorant Overlay Tool was created under Riot Games' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.
     
 If you liked this program, credit CHOCO! (twitter.com/choco_bclyn)
 ```
