@@ -29,6 +29,8 @@ Coded in AHK
    ██    ██    ██ ██    ██ ██            
    ██     ██████   ██████  ███████   09-11-2023  
 
+
+What it looks like in action: https://youtu.be/SzHyVYww-C4?t=529
                                                                           
 Pre-requisites:
 - OBS Studio
