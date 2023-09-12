@@ -45,7 +45,7 @@ How to use:
 2. Set team names. Input boxes found under Player 3 and Player 8
 3. Select player picks in the dropdown based on in-game drafting screen
 4. (Optional) Set map picks for Bo3 in the dropdown under the "swap" Buttons
-5. (Optional) Swap player names, teams, or both using the swap Buttons. Note: Swapping teams also swap current score (if any)
+5. (Optional) Swap player names, teams, or both using the swap Buttons. Note: Swapping teams does not swap current score (if any)
 6. Reset using the Clear names, scores, agents, or all buttons
 7. Set scores by ticking the radio buttons corresponding to the number of wins
      
